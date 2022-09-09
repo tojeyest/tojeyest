@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tojeyest
 - 🌱 I’m currently learning kotlin
 
-It's a educational project for OTUS
+
 
 
 <!---
